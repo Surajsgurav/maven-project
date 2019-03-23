@@ -16,7 +16,7 @@ public class TestGreeter {
   public void setup() {
     greeter = new Greeter();
   }
-
+/* modified data by suraj to see changes on git and do sync in jenkins */
   @Test
   public void greetShouldIncludeTheOneBeingGreeted() {
     String someone = "World";
